@@ -1,9 +1,0 @@
-<!DOCTYPE>
-<html>
-<body>
-
-<h3>Gibson Custom shop Les Paul Black Beauty (Semi-solid Body)</h3>
-<img src="https://www.scmusic.com.au/content/uploads/2018/08/Gibson-Es-Les-Paul-Custom-Shop-Black-Beauty-Vos-With-Bigsby-New-with-Warranty-22.jpg" width=517 height=500>
-
-</body>
-</html>
